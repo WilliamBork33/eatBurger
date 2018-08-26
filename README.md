@@ -2,7 +2,7 @@
 
 A logger with MySQL, Node, Express, Handlebars and an ORM. Uses Node and MySQL to query and route data and Handlebars to generate HTML.
 
-Live link: https://evening-wave-19288.herokuapp.com/
+Live link: https://floating-plains-35767.herokuapp.com/
 
 ### Before You Begin
 
